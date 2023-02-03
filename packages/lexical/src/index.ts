@@ -171,3 +171,5 @@ export {
 } from './nodes/LexicalParagraphNode';
 export {$isRootNode, RootNode} from './nodes/LexicalRootNode';
 export {$createTextNode, $isTextNode, TextNode} from './nodes/LexicalTextNode';
+
+export { resetRandomKey } from "./LexicalUtils"
